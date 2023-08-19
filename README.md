@@ -1,4 +1,4 @@
-# Web-Scraping-Senamhi
+# Web-Scraping-Senamhi-1
 Web Scraping del Servicio Nacional de Meteorología e Hidrología del Perú
 El objetivo del documento es descargar información sobre variables climáticas de las Estaciones Convencionales con recepción de datos en tiempo real del Senamhi.
 El mismo código puede ser utilizado para obtener información de las "Estaciones Convencionales con recepción de datos en tiempo diferido" y "Estaciones automáticas".
